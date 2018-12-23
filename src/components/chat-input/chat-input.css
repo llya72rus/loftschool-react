@@ -1,0 +1,13 @@
+.chat__input-wrapper {
+  margin-top: auto;
+}
+
+.chat__input {
+  display: block;
+  width: 100%;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+  outline: none;
+  padding: 4px 10px;
+}
